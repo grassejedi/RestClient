@@ -1,0 +1,16 @@
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\BasicRestClient.exe.config
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\BasicRestClient.exe
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\BasicRestClient.pdb
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\RestSharp.dll
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\RestSharp.xml
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.csprojResolveAssemblyReference.cache
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.BasicRestClient.resources
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.Properties.Resources.resources
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.csproj.GenerateResource.Cache
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.exe
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.pdb
+C:\Users\sean\Google Drive\School\SPRING 2015\CS 4670 Undergrade Research Proj\Basic REST service\BasicRestClient\BasicRestClient\obj\Debug\BasicRestClient.Item.resources
